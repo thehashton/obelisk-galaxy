@@ -46,7 +46,7 @@
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
     "graphql-tools": "4.0.4",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "open": "6.2.0",
     "open-cli": "1.0.5",
     "postcss-sass-loader": "1.1.0",
